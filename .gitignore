@@ -2,36 +2,11 @@
 # Dependencies
 node_modules/
 
-# Build outputs
-dist/
-build/
-target/
+# Editors
+.vscode/
 
-# TypeScript/JavaScript
-*.tsbuildinfo
-*.js.map
-*.jsx.map
-*.ts.map
-
-# Environment variables
+# Environment
 .env
 .env.local
-.env.*
-
-# IDE files
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# Logs
-*.log
-
-# Temporary files
-*.tmp
-*.temp
-
-# Coverage
-coverage/
-.nyc_output/
+.env.
 ```
